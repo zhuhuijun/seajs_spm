@@ -1,0 +1,26 @@
+{
+  "name": "seajs_spm",
+  "description": "spm",
+  "main": "index.js",
+  "authors": [
+    "zhuhj"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "sea.js",
+    "spm"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "seajs": "^3.0.0"
+  }
+}
